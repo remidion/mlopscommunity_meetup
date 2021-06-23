@@ -59,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Emmanuel Raj - [Linkedin](https://twitter.com/your_username) 
+Emmanuel Raj - [Linkedin](https://www.linkedin.com/in/emmanuelraj7/) 
 
 Project Link: [https://github.com/emmanuelraj7/mlopscommunity_meetup](https://github.com/emmanuelraj7/mlopscommunity_meetup)
 
