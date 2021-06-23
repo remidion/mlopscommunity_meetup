@@ -5,7 +5,7 @@
 
 [![Load Testing][product-screenshot]](https://example.com)
 
-The project is aimed at getting started with load testing a microservice before taking it to production. We use FastAPI microservice (to predict weather) and Locust to load test the service (locally or on cloud).
+The project is aimed at getting started with load testing a microservice before taking it to production. We use FastAPI microservice (to predict weather) and Locust to load test the service (locally or on cloud). You can find detailed instructions in the [Engineering MLOps](https://www.amazon.com/Engineering-MLOps-Rapidly-production-ready-learning/dp/1800562888) book.
 
 
 
