@@ -1,7 +1,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The demo
+## About The Demo
 
 ![Load Testing](https://github.com/emmanuelraj7/mlopscommunity_meetup/blob/main/images/load_test.png)
 
