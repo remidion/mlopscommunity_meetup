@@ -19,6 +19,8 @@ Major frameworks used to build the project:
 * [Locust](https://locust.io/)
 
 
+![FASTAPI](https://github.com/emmanuelraj7/mlopscommunity_meetup/blob/main/images/fast_api_service.png)
+
 
 <!-- GETTING STARTED -->
 ### Installation
